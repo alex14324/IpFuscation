@@ -1,0 +1,4 @@
+﻿  Ipv4Fuscation.c
+C:\Users\Administrator\Desktop\MD\21.IpFuscation\IpFuscation\IpFuscation\Ipv4Fuscation.c(28,42): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\21.IpFuscation\IpFuscation\IpFuscation\Ipv4Fuscation.c(19,1): warning C4172: returning address of local variable or temporary : Output
+  IpFuscation.vcxproj -> C:\Users\Administrator\Desktop\MD\21.IpFuscation\IpFuscation\x64\Debug\IPV4Fuscation.exe
